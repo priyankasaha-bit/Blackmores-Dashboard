@@ -1,4 +1,4 @@
-**BLACKMORES HR DASHBOARD**
+##BLACKMORES HR DASHBOARD##
 
 **Tool: Tableau**
 
@@ -7,6 +7,7 @@
 📖 **Project Overview**
 
 This Tableau dashboard provides a deep dive into HR analytics for Blackmores, focusing on workforce trends, employee performance, and organizational metrics.
+
 The goal is to help HR leaders make data-driven decisions about hiring, retention, and productivity.
 
 🎯 **Key Objectives**
@@ -32,11 +33,15 @@ Here are the most interesting and less obvious insights from the Blackmores HR d
 
 This is the moment for Blackmores to act — rising attrition across key talent pools demands urgent attention.
 
-**Download the Tableau File**
 
+🖼️ **Dashboard Preview**
+![Blackmore](https://github.com/priyankasaha-bit/Blackmores-Dashboard/blob/main/Blackmores%20Screensht_png.png?raw=true)
+
+**Download the Tableau File**
 You can download the packaged Tableau workbook here:
+
 https://drive.google.com/file/d/1_DrYRhd56RRJD9eXQzF3eofZP7IEj0w8/view?usp=sharing
 
-**About the Author**
+**Created by**
 
-Created by Priyanka Saha, Data Analyst passionate about transforming raw HR data into meaningful visual stories.
+**Priyanka Saha**, Data Analyst passionate about transforming raw HR data into meaningful visual stories.
