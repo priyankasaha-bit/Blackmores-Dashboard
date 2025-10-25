@@ -1,8 +1,11 @@
-##BLACKMORES HR DASHBOARD##
+# BLACKMORES HR DASHBOARD
+
 
 **Tool: Tableau**
 
 **Skills Used:** Data Cleaning • Data Modelling • Tableau Visualization • Calculated Fields • KPI Design • Dashboard Storytelling
+
+-------
 
 📖 **Project Overview**
 
@@ -10,12 +13,16 @@ This Tableau dashboard provides a deep dive into HR analytics for Blackmores, fo
 
 The goal is to help HR leaders make data-driven decisions about hiring, retention, and productivity.
 
+------
+
 🎯 **Key Objectives**
 
 1.Visualize workforce distribution across departments and locations
 2.Track employee attrition, satisfaction, and engagement levels
 3.Identify performance trends and potential areas for intervention
 4.Deliver an interactive dashboard that simplifies executive decision-making
+
+------
 
 📊 **Key Insights**
 When 1 in 6 employees leave despite being satisfied, it’s clear: retention takes more than just smiles on surveys- this is what I learnt after dealing with the dataset on Blackmores, a supplement manufacturing company in Australia
@@ -33,14 +40,19 @@ Here are the most interesting and less obvious insights from the Blackmores HR d
 
 This is the moment for Blackmores to act — rising attrition across key talent pools demands urgent attention.
 
+--------
 
 🖼️ **Dashboard Preview**
 ![Blackmore](https://github.com/priyankasaha-bit/Blackmores-Dashboard/blob/main/Blackmores%20Screensht_png.png?raw=true)
+
+------
 
 **Download the Tableau File**
 You can download the packaged Tableau workbook here:
 
 https://drive.google.com/file/d/1_DrYRhd56RRJD9eXQzF3eofZP7IEj0w8/view?usp=sharing
+
+--------
 
 **Created by**
 
