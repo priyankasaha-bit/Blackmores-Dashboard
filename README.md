@@ -1,5 +1,7 @@
 **BLACKMORES HR DASHBOARD**
+
 **Tool: Tableau**
+
 **Skills Used:** Data Cleaning • Data Modelling • Tableau Visualization • Calculated Fields • KPI Design • Dashboard Storytelling
 
 📖 **Project Overview**
