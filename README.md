@@ -57,3 +57,4 @@ https://drive.google.com/file/d/1_DrYRhd56RRJD9eXQzF3eofZP7IEj0w8/view?usp=shari
 **Created by**
 
 **Priyanka Saha**, Data Analyst passionate about transforming raw HR data into meaningful visual stories.
+**LinkedIn**- https://www.linkedin.com/in/priyanka-saha-a79a46241/details/projects/
