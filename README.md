@@ -18,8 +18,11 @@ The goal is to help HR leaders make data-driven decisions about hiring, retentio
 🎯 **Key Objectives**
 
 1.Visualize workforce distribution across departments and locations
+
 2.Track employee attrition, satisfaction, and engagement levels
+
 3.Identify performance trends and potential areas for intervention
+
 4.Deliver an interactive dashboard that simplifies executive decision-making
 
 ------
