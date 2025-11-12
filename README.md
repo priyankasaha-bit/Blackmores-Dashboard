@@ -53,7 +53,8 @@ This is the moment for Blackmores to act — rising attrition across key talent 
 **Download the Tableau File**
 You can download the packaged Tableau workbook here:
 
-https://drive.google.com/file/d/1_DrYRhd56RRJD9eXQzF3eofZP7IEj0w8/view?usp=sharing
+[Download Blackmores File](https://drive.google.com/uc?export=download&id=1_DrYRhd56RRJD9eXQzF3eofZP7IEj0w8)
+
 
 --------
 
