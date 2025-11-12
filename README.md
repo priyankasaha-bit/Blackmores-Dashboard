@@ -33,7 +33,7 @@ Here are the most interesting and less obvious insights from the Blackmores HR d
 
 🔍 High Satisfaction, yet 56% of the people working in the R & D department chose to leave. 52 employees with job satisfaction ratings of 4 or higher, left the company-isn’t it appalling? Risk of silent disengagement in most strategic departments.
 
-🧱 Is it really surprising, when 266 employees, who have spent over 5 years in the same seat without a single promotion, left the company? No, right……
+🧱 Is it really surprising that 266 employees who spent over five years in the same role without a single promotion decided to leave the company? Probably not.
 
 💸Gender-based income disparities, particularly at senior levels, reflect systemic issues that no modern organization can afford to ignore. The role of Research Director shows a striking $1,500+ average monthly income gap between genders.
 
